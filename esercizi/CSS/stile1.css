@@ -1,1 +1,12 @@
-
+body (background : lightskyblue; )
+h1 (font-weight : bold;
+font-sixe : 36px;
+color: mediumblue;
+text-alien : center; )
+h2 ( font-weight :bold;
+font-size : 24px;
+color : mediumvioletred )
+p ( color : blue;
+background-color: azure;
+font-sixe: 18;
+text-align : justify)
