@@ -1,13 +1,14 @@
-body (background : lightskyblue; )
-h1 (font-weight : bold;
-font-sixe : 36px;
+body {background : lightskyblue; }
+h1 {font-weight : bold;}
+{font-sixe : 36px;
 color: mediumblue;
-text-alien : center; )
-h2 ( font-weight :bold;
+text-alien : center; }
+h2 { font-weight :bold;
 font-size : 24px;
-color : mediumvioletred )
-p ( color : blue;
+color : mediumvioletred }
+p { color : blue;
 background-color: azure;
 font-sixe: 18;
-text-align : justify)
+text-align : justify}
+<img {width: 200px; height: 200px;}
 
